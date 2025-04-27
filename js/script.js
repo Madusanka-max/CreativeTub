@@ -147,7 +147,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 });
 
-// Contact form handling with basic validation
+// Contact form handling
 document.getElementById('contactForm').addEventListener('submit', (e) => {
     e.preventDefault();
     
