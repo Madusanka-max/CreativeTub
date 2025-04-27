@@ -3,7 +3,7 @@
 A modern, responsive luxury villa website showcasing exclusive properties with elegant design and seamless user experience.
 
 ## 🌟 Live Demo
-[View Live Demo](#) <!-- Add your live demo link when deployed -->
+[View Live Demo](https://madusanka-max.github.io/CreativeTub/)
 
 ## 🎨 Design
 [View Figma Design](https://www.figma.com/proto/UMP4AGrWByNXuiNWQ86pvj/CreativeTub?node-id=20-1017&t=McIIxp2IbSVU2ypc-1)
@@ -98,14 +98,7 @@ The website includes:
 
 This project is licensed under the MIT License - see the LICENSE file for details
 
-## 👥 Credits
-
-- Design by CreativeTub Team
-- Images from [source] <!-- Add image sources if applicable -->
-- Icons from [Heroicons](https://heroicons.com/)
-
 ## 📧 Contact
 
 For any queries or support, please contact:
-- Email: info@villaserendipity.com
-- Website: [Villa Serendipity](#) <!-- Add your website URL when live -->
+- Email: isuru.rodrigo1243@gmail.com
