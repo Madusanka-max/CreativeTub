@@ -64,6 +64,7 @@ document.querySelectorAll('section > div').forEach(section => {
 function openModal(modalId) {
     const modal = document.getElementById(modalId);
     modal.classList.remove('hidden');
+    modal.classList.add('flex');
     document.body.style.overflow = 'hidden'; // Prevent scrolling when modal is open
     
     // Initialize carousel if present in this modal
@@ -73,6 +74,7 @@ function openModal(modalId) {
 
 function closeModal(modalId) {
     const modal = document.getElementById(modalId);
+    modal.classList.remove('flex');
     modal.classList.add('hidden');
     document.body.style.overflow = ''; // Restore scrolling
     
